@@ -19,7 +19,7 @@
 
 - 🌱 I love **Evolutionary computation, complex systems and sofware engineering**.
 
-- 🤔 I’m looking for help with **Algorithms**.
+- 🤔 I’m studying to get the **Java 11 certification**.
 
 - 💬 Ask me about **Java, Python, git**.
 
