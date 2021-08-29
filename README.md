@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently on my PhD. studies at William and Marry University**.
+- 🔭 I’m currently on my PhD. studies at William and Marry University.
 
 - 🌱 I love **Evolutionary computation, complex systems and sofware engineering**.
 
