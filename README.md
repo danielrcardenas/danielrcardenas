@@ -3,7 +3,7 @@
   <h3 align="center">Hi 👋, I'm Daniel Rodriguez-Cardenas</h3>
 </p>
 <p align="center">
-    <a href="https://danielrcardenas.github.io">About Me</a>
+    <a href="https://danielrcardenas.github.io/home">About Me</a>
     ·
     <a href="mailto:danielrcardenas@gmail.com">Email</a>
     ·
@@ -15,13 +15,13 @@
 
 
 
-- 🔭 I’m currently working on **[QuranTalk App](https://www.qurantalk.app/)**.
+- 🔭 I’m currently on my PhD. studies at William and Marry University**.
 
-- 🌱 I’m currently learning **Software Design Patterns**.
+- 🌱 I love **Evolutionary computation, complex systems and sofware engineering**.
 
-- 🤔 I’m looking for help with **UI/UX of [StarBook App](https://github.com/hashirshoaeb/star_book)**.
+- 🤔 I’m looking for help with **Algorithms**.
 
-- 💬 Ask me about **Dart, Flutter, Reactjs, git**.
+- 💬 Ask me about **Java, Python, git**.
 
 - 📫 How to reach me: @danielrc
 
