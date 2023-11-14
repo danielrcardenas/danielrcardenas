@@ -15,13 +15,13 @@
 
 
 
-- 🔭 I’m currently on my PhD. studies at William and Marry University.
+- 🔭 I’m PhD Candidate at William and Marry University.
 
 - 🌱 I love **Evolutionary computation, complex systems and sofware engineering**.
 
 - 🤔 I’m studying to get the **Java 11 certification**.
 
-- 💬 Ask me about **Java, Python, git**.
+- 💬 Ask me about **LLMs, Interpretability, Java, Python, PHP, git **.
 
 - 📫 How to reach me: @danielrc
 
