@@ -3,7 +3,7 @@
   <h3 align="center">Hi 👋, I'm Daniel Rodriguez-Cardenas</h3>
 </p>
 <p align="center">
-    <a href="https://danielrcardenas.github.io/home">About Me</a>
+    <a href="https://danielrcardenas.github.io">About Me</a>
     ·
     <a href="mailto:danielrcardenas@gmail.com">Email</a>
     ·
