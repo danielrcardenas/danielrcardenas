@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <h3 align="center">Hi 👋, I'm Daniel Rodriguez-Cardenas</h3>
+  <h3 align="center">I'm Daniel Rodriguez-Cardenas</h3>
 </p>
 <p align="center">
     <a href="https://danielrcardenas.github.io">About Me</a>
