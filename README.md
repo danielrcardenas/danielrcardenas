@@ -27,7 +27,7 @@
 
 - 😄 Pronouns: He/Him/His
 
-- ⚡ Fun fact: A coder who likes coffee.
+- ⚡ Fun fact: A coder who likes philosophy.
 
 <!--
 **danielrcardenas/danielrcardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
